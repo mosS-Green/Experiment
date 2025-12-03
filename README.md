@@ -15,8 +15,9 @@ An extremely beautiful music widget with seeking and playback controls.
 ## Setup
 
 1.  Open the project in Android Studio.
-2.  Sync Gradle.
-3.  Run on an emulator or device (API 24+).
+2.  **Important:** Run `gradle wrapper` in the terminal (or let Android Studio fix the Gradle wrapper) to generate the `gradlew` files and `gradle-wrapper.jar`. These binary files could not be generated automatically.
+3.  Sync Gradle.
+4.  Run on an emulator or device (API 24+).
 
 ## Features
 
