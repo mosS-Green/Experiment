@@ -12,10 +12,6 @@ An extremely beautiful music widget with seeking and playback controls.
 *   **Build System:** Gradle (Kotlin DSL)
 *   **CI/CD:** GitHub Actions
 
-## Note on "React Native"
-
-The initial requirements mentioned "React Native" but also specified "Jetpack Compose", "Gradle Kotlin DSL", "Room", and "MVVM". These are native Android technologies and are incompatible with a standard React Native project structure. This project is built as a **Native Android App** to fulfill the majority of the specific technical requirements.
-
 ## Setup
 
 1.  Open the project in Android Studio.
